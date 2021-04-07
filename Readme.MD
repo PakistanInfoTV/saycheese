@@ -15,4 +15,3 @@ git clone https://github.com/PakistanInfoTV/saycheese
 cd saycheese
 bash saycheese.sh
 ```
-
